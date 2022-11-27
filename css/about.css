@@ -4,9 +4,26 @@ body{
     width: 100%;
     background-image:url("../n.jpg"); 
     display : flex;
+    
     align-items: center;
     justify-content: center;
+    gap: 20px;
 
+    
+
+
+
+}
+
+
+
+.displayContent{
+   opacity: 1;
+   border-radius: 20px;
+   background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    
+   
 
 
 }
