@@ -123,3 +123,11 @@ li {
 
 
 }
+
+.copyRight{
+    
+    color: black;
+    margin-top: 100px;
+    text-align: right;
+    margin-right: 200px;
+}
