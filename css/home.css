@@ -1,3 +1,23 @@
-.body{
+body{
+    background-image: url("../n.jpg");
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
     
+
+
 }
+
+.aboutContent{
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+

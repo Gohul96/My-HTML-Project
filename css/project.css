@@ -49,14 +49,14 @@ body {
 .mainPanel {
     width: 65%;
    height: 90%;
-   background-color: rgba(255, 255, 255, 0.4);
+   background-color: rgba(255, 255, 255, 0.459);
    border-radius: 10px;
-   color: rgb(0, 128, 255);
+   color: #000000;
     
 }
 
 .panel {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.454);
     border-radius: 10px;
     width: 90%;
     height: 40%;
@@ -66,11 +66,12 @@ body {
 }
 
 .title {
-    color: rgb(255, 98, 0);
+    color: #CF0A0A;
     text-align: center;
 }
 
 .inputArea {
+
     font-size: 20px;
 }
 
@@ -108,6 +109,7 @@ body {
 .faqContent{
     
     text-align: left;
+    color:#000000;
 
 
 }
@@ -127,7 +129,13 @@ li {
 .copyRight{
     
     color: black;
-    margin-top: 100px;
+    margin-top: 150px;
     text-align: right;
     margin-right: 200px;
 }
+.tit{
+    font-weight: bolder;
+    font-style: inherit;
+    color:rgb(206, 7, 7);
+
+}   
