@@ -4,7 +4,6 @@ body{
     width: 100%;
     background-image:url("../n.jpg"); 
     display : flex;
-    
     align-items: center;
     justify-content: center;
     gap: 20px;
